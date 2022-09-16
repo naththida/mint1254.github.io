@@ -1,0 +1,55 @@
+.h1,.h4{
+    color: #2299aa;
+}
+.navigation{
+    width: 100%;
+    position: relative;
+    min-height: 60px;
+    z-index: 1000;
+}
+#navbarNav{
+    justify-content: flex-end;
+}
+.navbar-brand{
+    color: #2299aa !important;
+    font-size: 2rem;
+
+}
+
+.navbar-light, .navbar-nav, .nav-link{
+    color: #333333;
+    font-weight: 600;
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+
+}
+
+/* buttons */
+.ben{
+    background-color: #2299aa !important;
+    border-radius: 2rem;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    color: #ffffff !important;
+    border: non;
+}
+/*banner */
+.banner, #my-wo{
+    background-color: #eae7dc;
+}
+/* icon */
+.icon{
+    color: #ffffff;
+    background-color: #2299aa;
+    height: 50px;
+    max-width: 50px;
+    width: 100% !important;
+    margin: auto;
+    padding: 16px;
+    background-size: 20%;
+    border-radius: 28px;
+}
+#contacrs{
+    background-color: #eae7de;
+    border: none;
+}
